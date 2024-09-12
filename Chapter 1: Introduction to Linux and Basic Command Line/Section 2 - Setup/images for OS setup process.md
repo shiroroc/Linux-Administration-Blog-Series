@@ -9,11 +9,11 @@
 ![s9](https://github.com/user-attachments/assets/ab544417-1574-4d43-8285-dffd1d8ae251)
 ![s10](https://github.com/user-attachments/assets/b5b986c9-eb6a-4c80-a116-d65571319e0f)
 ![s11](https://github.com/user-attachments/assets/71fe9d0c-1150-4099-bc9a-89504a8af41d)
-
+//
 
 PART 2 begins here: 
 
-
+//
 ![s12](https://github.com/user-attachments/assets/5b1c9a87-e971-4c6e-9c68-7321f6a73429)
 ![s13](https://github.com/user-attachments/assets/8dd34ab6-0ed4-44ad-accb-da66643b9fa0)
 ![s14](https://github.com/user-attachments/assets/41aea77e-b0c5-4e42-86a5-3293989f3af9)
@@ -22,6 +22,11 @@ PART 2 begins here:
 ![s17](https://github.com/user-attachments/assets/8731ce83-6d10-4be3-b463-57109d17a037)
 ![s18](https://github.com/user-attachments/assets/945b2718-d390-482f-add4-fc4628ab78fa)
 ![s19](https://github.com/user-attachments/assets/fdc5d48b-2f8a-4733-b617-20e05d378c4c)
+//
+
+verify if the disc image is removed or not
+
+//
 ![s20](https://github.com/user-attachments/assets/2587f98c-9757-4b9f-8c87-0d35bf60a2b1)
 ![s21](https://github.com/user-attachments/assets/a84d76c1-43d2-4b58-8089-06cf78345b11)
 ![s22 completed installation](https://github.com/user-attachments/assets/1265bec7-3cb3-49d6-aab0-2c19100d5a35)
