@@ -1,0 +1,5 @@
+![s1](https://github.com/user-attachments/assets/55b155be-d3ff-4992-931d-a3a1c3f2e793)
+![s2](https://github.com/user-attachments/assets/2b18c50b-a897-468d-9c7e-b211d4115ea1)
+![s3](https://github.com/user-attachments/assets/d673d96a-b0f9-4964-8f57-1f04952baf52)
+![after completing the setup - your desktop should look something like this when you press HOST (right CTRL) + F](https://github.com/user-attachments/assets/83b59e1c-804b-4d5e-95ab-742a66f377fe)
+![eject the guest additions to unmount it, now you have all of it setup on your pc- enjoy the smooth transitions and full screen experience  s5](https://github.com/user-attachments/assets/340bd440-d51e-463a-9628-3690666e16a2)
